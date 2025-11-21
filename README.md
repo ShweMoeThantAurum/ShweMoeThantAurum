@@ -21,3 +21,7 @@
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShweMoeThantAurum&layout=compact)
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ShweMoeThantAurum/ShweMoeThantAurum/output/github-contribution-grid-snake.svg)
