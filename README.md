@@ -24,4 +24,5 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ShweMoeThantAurum/ShweMoeThantAurum/output/github-contribution-grid-snake.svg)
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/ShweMoeThantAurum/ShweMoeThantAurum/output/github-contribution-grid-snake.svg)
+](https://github.com/ShweMoeThantAurum/ShweMoeThantAurum/blob/output/github-contribution-grid-snake.svg)
