@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there! I'm Shwe Moe Thant  
 
-<!--
-**ShweMoeThantAurum/ShweMoeThantAurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Cloud Computing** | National College of Ireland
+🎓 **Bachelor of Information Technology** | James Cook University Singapore
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+
+| Category | Technologies |
+|----------|---------------|
+| **Programming** | Python, Bash, Java, SQL, MATLAB |
+| **AI/ML** | Federated Learning, TensorFlow, PyTorch |
+| **Cloud** | AWS (EC2, S3, IoT Core, Lambda), Docker |
+| **DevOps** | Git, GitHub Actions, Docker Compose |
+| **Data** | Pandas, NumPy, Scikit-learn, Matplotlib |
+| **Networking** | MQTT, REST APIs, Client-Server Systems |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
