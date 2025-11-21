@@ -20,6 +20,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ShweMoeThantAurum=ShweMoeThantAurum&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShweMoeThantAurum&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ShweMoeThantAurum=ShweMoeThantAurum&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShweMoeThantAurum&layout=compact)
