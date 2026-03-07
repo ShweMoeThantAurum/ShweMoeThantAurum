@@ -52,9 +52,9 @@ CI/CD-based security automation for containerised applications.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShweMoeThantAurum&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,python,js,django,flask,nodejs,git,github,linux)
 
 ---
 
