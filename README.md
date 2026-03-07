@@ -54,7 +54,7 @@ CI/CD-based security automation for containerised applications.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShweMoeThantAurum&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShweMoeThantAurum&layout=compact&theme=default&hide_border=true)
 
 ---
 
